@@ -23,7 +23,7 @@ def name= name
 
   def initialize (hat_color= "red")
     @personality= "evil"
-    @hat_color= "red"
+    @hat_color= hat_color
   end
 
   def gnaw
