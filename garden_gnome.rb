@@ -29,6 +29,7 @@ def name= name
   def gnawing_gnome.gnaw
   returns "Gnawing on a tree!!!"
   end
+
   def shout
     returns "GNARLY!!!"
   end
