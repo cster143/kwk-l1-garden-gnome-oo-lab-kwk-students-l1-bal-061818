@@ -21,7 +21,7 @@ def name= name
   end
 
 
-  def initialize (hat_color = "red")
+  def initialize (hat_color= "red")
     @personality= "evil"
     @hat_color= hat_color
   end
