@@ -1,7 +1,7 @@
 # Code your instances here
 class GardenGnome
-  attr_reader :gluten_allergy, :personality
-  attr_writer :gluten_allergy
+  attr_reader :gluten_allergy, :personality, :hat_color
+  attr_writer :gluten_allergy, :hat_color
 
 
 def name= name
@@ -21,7 +21,7 @@ def name= name
   end
 
 
-  def initialize (hat_color= "red")
+  def initialize (hat_color="red")
     @personality= "evil"
     @hat_color= hat_color
   end
