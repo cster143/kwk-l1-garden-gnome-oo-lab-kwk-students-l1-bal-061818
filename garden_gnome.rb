@@ -39,4 +39,4 @@ def name= name
   end
 end
 
-hat_color= GardenGnome.new (initialize)
+hat_color= GardenGnome.new(initialize)
