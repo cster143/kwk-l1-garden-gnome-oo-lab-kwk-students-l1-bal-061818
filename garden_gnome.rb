@@ -26,7 +26,7 @@ def name= name
     @hat_color= hat_color
   end
 
-  def gnaw
+  def gnawing_gnome.gnaw
     puts "Gnawing on a tree!!!"
   end
 
