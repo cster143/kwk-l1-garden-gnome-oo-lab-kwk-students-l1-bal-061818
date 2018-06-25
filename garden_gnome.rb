@@ -27,15 +27,15 @@ def name= name
   end
 
   def gnaw
-  returns "Gnawing on a tree!!!"
+  puts "Gnawing on a tree!!!"
   end
 
   def shout
-    returns "GNARLY!!!"
+    puta "GNARLY!!!"
   end
 
   def introduce_self
-    returns "Hello, humans, my name is #{@name}, I am #{@age}years old, and you'll rue the day you crossed me!"
+    puts "Hello, humans, my name is #{@name}, I am #{@age}years old, and you'll rue the day you crossed me!"
   end
 end
 
