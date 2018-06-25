@@ -41,4 +41,4 @@ end
 
 
 hat_color= GardenGnome.new(initialize)
-gnaw
+
