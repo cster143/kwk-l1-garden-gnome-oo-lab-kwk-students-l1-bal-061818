@@ -27,11 +27,11 @@ def name= name
   end
 
   def gnaw
-    returns "Gnawing on a tree!!!"
+    puts "Gnawing on a tree!!!"
   end
 
   def shout
-    returns "GNARLY!!!"
+    puts "GNARLY!!!"
   end
 
   def introduce_self
