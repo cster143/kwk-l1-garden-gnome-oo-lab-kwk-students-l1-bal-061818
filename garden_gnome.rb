@@ -31,7 +31,7 @@ def name= name
   end
 
   def shout
-    puta "GNARLY!!!"
+    puts "GNARLY!!!"
   end
 
   def introduce_self
